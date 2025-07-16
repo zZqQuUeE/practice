@@ -1,0 +1,16 @@
+// 주석ㄷㄷㄷㄷㄷㄷㄷㄷ
+/* 별주석
+    ????
+    ??????
+    ???
+
+    */
+
+let a = 10;
+console.log(a);
+a = "asdfsadf"
+console.log(a);
+
+if 3 > 2 {
+    console.log(12345.56);
+}
